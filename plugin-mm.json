@@ -1,0 +1,20 @@
+{
+    "MetaModulePluginMaintainer": "oksami",
+    "MetaModulePluginMaintainerEmail": "itsoksami@gmail.com",
+    "MetaModulePluginMaintainerUrl": "https://github.com/Ericxgao/metamodule-blacknoisemodular",
+    "MetaModuleDescription": "Black Noise Modular ported for MetaModule",
+    "MetaModuleIncludedModules": [
+        {
+            "slug": "Cosmos",
+            "name": "Cosmos"
+        },
+        {
+            "slug": "GomaII",
+            "name": "GomaII"
+        },
+        {
+            "slug": "SlewLFO",
+            "name": "SlewLFO"
+        }
+    ]
+}
